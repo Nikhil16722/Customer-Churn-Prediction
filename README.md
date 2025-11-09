@@ -1,11 +1,3 @@
-Perfect 🔥 That’s the right question — your **README.md** is what makes your project stand out on GitHub.
-
-Here’s a **complete, professional README** written for your project
-✅ beginner-friendly
-✅ portfolio-ready
-✅ explains every part clearly
-
----
 
 ## 🧠 Customer Churn Analysis & Prediction
 
@@ -151,3 +143,4 @@ preds = model.predict(X_test)
 📧 [lingalanikhil167@gmail.com](mailto:lingalanikhil167@gmail.com)
 
 ---
+
